@@ -1,6 +1,6 @@
 # Empowering individuals through technology and community.
 
-Projet Epic
+Project Epic
 Welcome to the official GitHub organization for Project Epic — a registered NDIS provider. We are dedicated to empowering young adults with disabilities through inclusive day programs, community participation experiences, and personalized support services.
 
 ### 🌟 About Project Epic
